@@ -1,6 +1,0 @@
-# pack-refs with: peeled fully-peeled 
-4729bbf8669dd22f9afe2bd1e6c66eb8c2579b20 refs/remotes/origin/app-json
-9f6db72cc2046595f256e5c0f9a6d425ed82db5b refs/remotes/origin/jkutner/heroku-jdbc
-efca546445c0923aefb74102cc6600c9ae3c45eb refs/remotes/origin/localchanges
-57357b49df7285942ae16fe90ffce01c99ee78cf refs/remotes/origin/master
-8812fca667dca6fc4aa46e0147718470bc66e32f refs/remotes/origin/ui
